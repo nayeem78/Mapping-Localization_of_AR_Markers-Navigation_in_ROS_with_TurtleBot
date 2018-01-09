@@ -20,7 +20,7 @@ Nodes are developed in **Python**.
 The report for the project is added as a pdf file, which includes the problem statement, strategy employed, packages used and details about the installation.
 
 The simulated world in Gazebo is as under:
-![GazeboWorld](resources/gazeboworld.jpg)
+![GazeboWorld](Resources/gazeboworld.jpg)
 
 ## Task
 The motto of the project is to gain experience in the implementation of different robotic algorithms using ROS framework.
@@ -35,11 +35,11 @@ The motto of the project is to gain experience in the implementation of differen
 ## Strategy
 
 The strategy implmented for the task is shown as a flow chart below:
-![Strategy](resources/strategy.jpg)
+![Strategy](Resources/strategy.jpg)
 
 AR marker used :
 
-![Marker1](resources/MarkerData_1.png)
+![Marker1](Resources/MarkerData_1.png)
 
 ## Execution
 
