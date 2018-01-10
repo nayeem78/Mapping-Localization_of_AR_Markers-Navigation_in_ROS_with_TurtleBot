@@ -99,9 +99,11 @@ AR marker used :
 `roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/path_to_your_world`
 
 4. Mapping the world
+
 `roslaunch turtlebot_gazebo gmapping_demo.launch`
 
 5. Navigating by Teleop
+
 `roslaunch turtlebot_teleop keyboard_teleop.launch`
 
 6. Save the map
