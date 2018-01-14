@@ -30,7 +30,9 @@ The motto of the project is to gain experience in the implementation of differen
 4.	At the desired location, we have a robotic arm which picks an object (e.g a small cube) and places on our turtlebot (called as pick and place task). 
 5.	After, the pick and place task, again the robot needs to find another marker, which specifies the final target location, and autonomously localise and navigate to the desired marker location, which finishes the complete task of the project. 
 
-**(This code deals with points 1, 2 and 5)**
+**(Our code deals with points 1, 2 and 5 which are shown as in below figure)**
+
+![Tasks](Resources/tasks.PNG)
 
 ## Strategy
 
